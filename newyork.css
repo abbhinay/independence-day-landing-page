@@ -1,0 +1,25 @@
+body {
+  background-image: url(independence.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Ubuntu', sans-serif;
+  height: 80vh;
+}
+
+div {
+  background-color: floralwhite;
+  border-radius: 4px;
+  opacity: 0.6;
+  width: 60%;
+  margin: 150px auto;
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline;
+  color: crimson;
+  border-color: red;
+  width: auto;
+  padding: 1em 1em;
+}
